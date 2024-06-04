@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @CristoffC
+- 👀 I’m interested in Python, data analysis and Machine Learning
